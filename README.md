@@ -26,6 +26,7 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menyiapkan:
 - Docker Desktop (wajib untuk menjalankan proyek dengan Docker)
 - Browser (Chrome, Firefox, Edge, atau lainnya)
 - Koneksi Internet
+- PHP 8.2
 
 ---
 
